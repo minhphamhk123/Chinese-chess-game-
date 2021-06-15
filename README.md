@@ -1,5 +1,6 @@
 # Chinese-chess-game-
 Code thiếu nhi oop seminar thực hành
+
 I. GIỚI THIỆU CHUNG
 - Chương trình sử dụng ngôn ngữ C++
 - Để chạy chương trình cần Visual Studio
