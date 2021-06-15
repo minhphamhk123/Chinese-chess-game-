@@ -7,6 +7,7 @@ I. GIỚI THIỆU CHUNG
 - Chương trình xài thư viện iostream, Windows.h, string. Không cần cài thư viện gì thêm.
 
 II. Hướng dẫn sử dụng
+
 A. Luật cờ tướng:
 1. Tốt: đi một ô mỗi nước. Nếu tốt chưa vượt qua sông, nó chỉ có thể đi thẳng tiến. Khi đã vượt sông rồi, 
 	tốt có thể đi ngang 1 nước hay đi thẳng tiến 1 bước mỗi nước.
